@@ -1,1 +1,11 @@
-{}
+{
+  "502418fa-dac9-46a2-9ba1-e56713139d5d": {
+    "id": "502418fa-dac9-46a2-9ba1-e56713139d5d",
+    "rating": 666,
+    "content": "hello world",
+    "tags": [
+      "test",
+      "dev"
+    ]
+  }
+}
